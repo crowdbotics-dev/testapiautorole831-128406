@@ -1,0 +1,14 @@
+{
+  "scaffold": {
+    "type": "react-native",
+    "version": "2.5.1",
+    "cookiecutter_context": {
+      "project_name": "TestAPIAutoRole831",
+      "project_slug": "testapiautorole831_128406",
+      "project_dash_slug": "testapiautorole831-128406",
+      "project_description": "This react_native application was built with Crowdbotics www.crowdbotics.com",
+      "owner_email": "ravinder.y+89@crowdbotics.com",
+      "ssh_key_fingerprint": "c5:bd:6d:0b:a1:39:97:83:ca:b5:13:59:14:ff:49:40"
+    }
+  }
+}
